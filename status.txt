@@ -1,0 +1,19 @@
+* master:
+develop1.txt
+readme.md
+status.txt
+myinfo.txt
+* develop:
+develop1.txt
+develop2.txt
+develop3.txt
+readme.md
+status.txt
+myinfo.txt
+* newfeature:
+develop1.txt
+develop2.txt
+newfeature.txt
+readme.md
+status.txt
+myinfo.txt
